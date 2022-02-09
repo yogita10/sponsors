@@ -91,7 +91,7 @@ p{
 }
 @media (max-width: 720px) {
   .nav__label {
-    display: none;
+    /* display: none; */
   }
   .nav__thumb {
     height: 90px;
